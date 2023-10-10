@@ -5,7 +5,7 @@
 
 All I needed was 5mins to run the program one time, and notice that the matrix multiplication isn't correct.
 
-So I checked it and found that all I needed to do is to write "+=" instead of "=" in line 43.
+I checked it and found that all I needed to do is to write "+=" instead of "=" in line 43 in order to get the sum of all multiplied components, not the last one alone.
 
 So, I didn't need to do use breakpoints, debugging or logging techniques.
 
@@ -19,8 +19,8 @@ However, I included the debugging command which can be used to debug.
 
 
 ```shell
-git clone https://github.com/RoniEmad/Siemens-CleanCode-A1.git
-cd Siemens-CleanCode-A1/
+git clone https://github.com/RoniEmad/Siemens-DebuggingLogging-A1.git
+cd Siemens-DebuggingLogging-A1/
 ```
 
 ### Build
